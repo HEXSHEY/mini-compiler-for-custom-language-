@@ -5,3 +5,5 @@ error reporting, AST visualization, and symbol table inspection. The system aims
 understanding compiler design principles while providing a practical development environment.
 
 here the output input , compiler.tab files , .png of ast tree which our project creates is also uploaded
+ 
+ TO run it , you need linux, open terminal ,open folder location , directly run {main python.py}, and the gui will be infront of you , you can try execution now
