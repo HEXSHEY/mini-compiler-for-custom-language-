@@ -4,4 +4,4 @@ parsing (Bison), AST generation, and execution capabilities. The Python-based GU
 error reporting, AST visualization, and symbol table inspection. The system aims to offer an educational platform for
 understanding compiler design principles while providing a practical development environment.
 
-here the output input , tcompiler.tab files along witk .png of ast tree which got made is included 
+here the output input , compiler.tab files , .png of ast tree which our project creates is also uploaded
